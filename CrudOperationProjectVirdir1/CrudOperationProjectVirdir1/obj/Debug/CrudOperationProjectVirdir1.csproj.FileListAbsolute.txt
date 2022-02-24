@@ -1,0 +1,15 @@
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\bin\Debug\CrudOperationProjectVirdir1.exe.config
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\bin\Debug\CrudOperationProjectVirdir1.exe
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\bin\Debug\CrudOperationProjectVirdir1.pdb
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.csproj.AssemblyReference.cache
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\MainWindow.g.cs
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\App.g.cs
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1_MarkupCompile.cache
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1_MarkupCompile.lref
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\MainWindow.baml
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.g.resources
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.Properties.Resources.resources
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.csproj.GenerateResource.cache
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.csproj.CoreCompileInputs.cache
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.exe
+C:\Users\ralla\source\repos\CrudOperationProjectVirdir1\CrudOperationProjectVirdir1\obj\Debug\CrudOperationProjectVirdir1.pdb
